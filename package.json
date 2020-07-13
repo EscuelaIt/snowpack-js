@@ -1,0 +1,23 @@
+{
+  "name": "snowpack-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write '**/*.{js,ts,html,json,css,scss,md,yaml}'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EscuelaIt/snowpack-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EscuelaIt/snowpack-js/issues"
+  },
+  "homepage": "https://github.com/EscuelaIt/snowpack-js#readme",
+  "devDependencies": {
+    "prettier": "2.0.5"
+  }
+}
