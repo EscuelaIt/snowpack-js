@@ -1,4 +1,6 @@
 {
+  "license": "MIT",
+  "author": "César Alberca <cesalberca@gmail.com>",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
