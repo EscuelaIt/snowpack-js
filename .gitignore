@@ -7,6 +7,7 @@ log.txt
 .vscode/
 npm-debug.log*
 builds/
+build
 
 .idea/
 .gradle/
