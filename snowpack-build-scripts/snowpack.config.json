@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "mount:public": "mount public --to /",
+    "mount:src": "mount src --to /dist",
+    "run:tsc": "tsc --noEmit",
+    "run:tsc::watch": "$1 --watch",
+    "run:sass": "sass --no-source-map",
+    "run:sass::watch": "$1 --watch"
+  },
+  "installOptions": {
+    "installTypes": true
+  }
+}

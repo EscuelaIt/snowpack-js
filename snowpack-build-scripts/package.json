@@ -1,0 +1,18 @@
+{
+  "name": "snowpack-build-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "keywords": [],
+  "author": "César Alberca <cesalberca@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "1.26.10",
+    "snowpack": "2.6.4",
+    "typescript": "3.9.6"
+  }
+}
