@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "format": "prettier --write '**/*.{js,ts,html,json,css,scss,md,yaml}'"
+    "format": "prettier --write '**/*.{js,ts,html,css,scss,md,yaml}' --ignore-path .gitignore"
   },
   "repository": {
     "type": "git",
