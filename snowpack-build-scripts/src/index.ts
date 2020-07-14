@@ -1,5 +1,5 @@
 const root = document.querySelector('#root')
 
 if (root !== null) {
-  root.innerHTML = 'Hello world!'
+  root.innerHTML = '<h1>Hello world!</h1>'
 }
